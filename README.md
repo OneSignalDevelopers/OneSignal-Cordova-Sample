@@ -12,9 +12,12 @@ To add the OneSignal to your Cordova project run the following.
 
 See the [OneSignal Cordova SDK Setup Guide](https://documentation.onesignal.com/docs/cordova-sdk-setup) for the full installation guide.
 
+## Setup Cordova-OneSignal < 3.0.0
+Take a look to the old-version branch
+
 ## Step Cordova 2.x to 3.0.0 Upgrade Guide
 
-**Skip this step if you are already in version 3.0.0 or grather
+**Skip this step if you are already in version 3.0.0 or grather**
 
 Take a look to our [OneSignal Cordova SDK documentation](https://documentation.onesignal.com/docs/step-by-step-cordova-2x-to-300-upgrade-guide) to learn more about the Cordova 2.x to 3.0.0 upgrade.
 
