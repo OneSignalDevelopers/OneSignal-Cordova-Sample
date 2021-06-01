@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8322171d-9885-44be-9376-77d788eb4908" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1tLwOJxZWFC6VyJV9h0BBsgRAaD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8322171d-9885-44be-9376-77d788eb4908" name="Default Changelist" comment="" />
+      <created>1622561643974</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1622561643974</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="519" y="168" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1622577760688">
+      <screen x="0" y="25" width="2560" height="996" />
+    </state>
+    <state x="519" y="168" key="#com.intellij.execution.impl.EditConfigurationsDialog/2560.-234.1080.1895/-1792.394.1792.1095/0.25.2560.996@0.25.2560.996" timestamp="1622577760688" />
+    <state x="643" y="256" key="IDE.errors.dialog" timestamp="1622577764042">
+      <screen x="0" y="25" width="2560" height="996" />
+    </state>
+    <state x="643" y="256" key="IDE.errors.dialog/2560.-234.1080.1895/-1792.394.1792.1095/0.25.2560.996@0.25.2560.996" timestamp="1622577764042" />
+  </component>
+</project>
