@@ -49,6 +49,13 @@ window.plugins.OneSignal.setAppId("YOUR_ONESIGNAL_APP_ID");
 **This sample code is only implented to work with Cordova-Android.**
 ***Take a look to our [OneSignal Cordova SDK documentation](https://documentation.onesignal.com/docs/step-by-step-cordova-2x-to-300-upgrade-guide) to learn more about the iOS setup***
 
+**If you run into an issue with ***AndroidXEnabled*** needing to be true, do the following steps:**
+1. Open your ***config.xml*** file located in your root folder
+2. Add the following line after `<platform></platform>` tags
+```html
+<preference name="AndroidXEnabled" value="true" />
+```
+
 #### Using Ionic instead?
 * [OneSignal Ionic Example](https://github.com/OneSignal/OneSignal-Ionic-Example)
 * [OneSignal Ionic SDK Setup Guide](https://documentation.onesignal.com/docs/ionic-sdk-setup)
